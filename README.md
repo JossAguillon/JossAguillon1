@@ -8,5 +8,22 @@ Me llamo Jocelyn Aguillón y estudio en la Facultad de Informática de la UAQ
 - Leer
 - jugar videojuegos
 
-## Mi Mascota
+## Mis Mascotas
 ![Foto de mi mascota/random](Horario.png)
+
+## Mi quote favorita
+> Divide y vencerás
+
+## Código
+
+```javascript
+Console.log("Hello Word");
+```
+
+```python
+print ("Hello Word")
+```
+
+
+
+
